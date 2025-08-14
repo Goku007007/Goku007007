@@ -1,36 +1,13 @@
-## Hi there 👋
+## About
 
-I'm **Gokul**, a passionate **Data & Cloud Engineer** focused on building scalable, automated, and business-driven data solutions. With a strong foundation in **Python, SQL, AWS, and GCP**, I’ve led projects that bring clarity to raw data and enable smart decision-making.
+**Data Analytics Engineer** targeting Data Engineer / Analytics Engineer / BI Engineer / Data Analyst roles in the US (Remote/Hybrid; open to relocate).
 
----
+**Core stack:** SQL · Python · dbt · Airflow · Snowflake/Redshift · Databricks · Power BI · Tableau · AWS · Azure · APIs · Git · CI/CD.
 
-### 🔭 Currently Exploring
+**Impact:** Designed event-driven ETL/ELT pipelines and standardized models that cut refresh times by **85%+** and power leadership decisions for public-sector and SaaS teams.  
+I like **dimensional modeling**, **cost-aware design**, and **crisp storytelling** with data.
 
-* Building cloud-native ETL pipelines using AWS Lambda, Redshift, and GCP BigQuery
-* Designing automated dashboards with Power BI and Looker Studio
-* Scaling data ingestion with Fivetran, dbt, and Airflow
+📩 **goku.careers@gmail.com**  •  **Chicago, IL**  •  **US Remote/Hybrid**  •  **Immediate start**
 
----
-
-### 🛠 Tech Stack
-
-* **Languages**: Python, SQL
-* **Cloud**: AWS (S3, Lambda, Redshift), GCP (BigQuery, Cloud Storage, Cloud Run)
-* **Tools**: Power BI, Tableau, dbt, Airflow, GitHub Actions, Docker
-* **Specialties**: API automation, scalable system design, business reporting automation
-
----
-
-### 💡 About Me
-
-* 📍 Based in Chicago, IL (Open to remote U.S. roles)
-* 🎯 Actively seeking **full-time opportunities** in Data Engineering, BI, Analytics, or Cloud-focused roles
-* 💬 Passionate about simplifying data workflows and making data accessible for everyone
-* 👀 View full background on [LinkedIn](https://www.linkedin.com/in/gokulananthn)
-
----
-
-### 📫 Let’s Connect
-
-* 📧 [goku.careers@gmail.com](mailto:goku.careers@gmail.com)
-* 🌐 [LinkedIn](https://www.linkedin.com/in/gokulananthn)
+[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Verified-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ca7ad75a-68b9-43d7-9c45-86e757948526)
+[![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-Verified-red?logo=databricks&logoColor=white)](https://credentials.databricks.com/ef9e6ee0-6039-4d76-a48e-5e20b258de52#acc.5CGS2qXj)
