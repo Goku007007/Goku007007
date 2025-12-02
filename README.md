@@ -83,4 +83,19 @@ You can find more in the pinned repositories on this profile.
 
 ## How I Work
 
-- Design from the warehouse and serving layer backwards, so that
+- Design from the warehouse and serving layer backwards, so that models and pipelines are aligned with actual decision-making needs.
+- Use AI tools for exploration, scaffolding, and large codebase edits, but keep tests, observability, and production reviews as non-negotiable safeguards.
+- Prefer simple, well-documented solutions over clever ones that are hard to maintain.
+- Track cost and performance from the beginning instead of treating them as afterthoughts.
+
+---
+
+## Contact
+
+If you would like to talk about data engineering, software systems, or potential opportunities:
+
+- Email: goku.careers@gmail.com  
+- Portfolio: https://gokuldata.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/gokul-nandakumar  
+
+Feel free to open an issue or discussion on any repository if you have questions about the implementation details.
