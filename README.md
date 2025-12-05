@@ -1,6 +1,6 @@
 # Gokul Nandakumar
 
-Software and Data Engineer | ETL/ELT Pipelines | Cloud Data Platforms
+Software, Data, and Cloud Engineer | ETL/ELT Pipelines | Distributed Systems | Cloud Data Platforms
 
 [Portfolio](https://gokuldata.vercel.app/) · [GitHub](https://github.com/Goku007007) · [LinkedIn](https://www.linkedin.com/in/gokul-nandakumar) · [Email](mailto:goku.careers@gmail.com)
 
@@ -8,17 +8,31 @@ Software and Data Engineer | ETL/ELT Pipelines | Cloud Data Platforms
 
 ## About
 
-Data Analytics Engineer targeting Data Engineer / Analytics Engineer / BI Engineer / Data Analyst roles in the US (Remote/Hybrid; open to relocate).
+I am a **Software, Data, and Cloud Engineer** with experience building:
 
-**Core stack:** SQL · Python · dbt · Airflow · Snowflake/Redshift · Databricks · Power BI · Tableau · AWS · Azure · APIs · Git · CI/CD.
+* **Production-grade ETL/ELT pipelines** using Airflow, dbt, Spark, and cloud orchestration.
+* **Scalable backend services** (FastAPI, Python) powering analytics and reporting for thousands of users.
+* **Cloud-native data platforms** across AWS (S3, Lambda, Glue, EKS), Azure (ADLS, Synapse), Snowflake, Databricks, and BigQuery.
 
-**Impact:** Designed event-driven ETL/ELT pipelines and standardized models that cut refresh times by **85%+** and power leadership decisions for public-sector and SaaS teams.  
-I like **dimensional modeling**, **cost-aware design**, and **crisp storytelling** with data.
+Across roles in **Data Engineering, Analytics Engineering, BI Engineering, Software Engineering, and Cloud Engineering**, I’ve delivered systems that:
 
-📩 goku.careers@gmail.com • Chicago, IL • US Remote/Hybrid • Immediate start
+* Reduce data preparation and refresh latency by **66–87%**.
+* Unify **5TB+** of fragmented civic, SaaS, and marketing datasets into reliable lakehouse architectures.
+* Standardize KPI layers, eliminating manual reconciliation and improving executive decision-making.
+* Improve query performance by **30–35%** and reduce compute/storage costs by **10–15%**.
+* Automate finance, CRM, and marketing workflows, saving **20+ hours/week** of manual effort.
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Verified-orange?logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/ca7ad75a-68b9-43d7-9c45-86e757948526)
-[![Databricks Fundamentals](https://img.shields.io/badge/Databricks_Fundamentals-Verified-red?logo=databricks&logoColor=white)](https://credentials.databricks.com/ef9e6ee0-6039-4d76-a48e-5e20b258de52#acc.5CGS2qXj)
+**Technical Stack**
+Python · SQL · Airflow · dbt · Spark (PySpark) · Kafka · FastAPI · Snowflake · Redshift · Databricks · BigQuery · Delta Lake · Terraform · Docker · Kubernetes · GitHub Actions · AWS · Azure · Tableau · Power BI
+
+**What I Focus On**
+
+* Dimensional modeling & clean semantic layers
+* Cost-efficient cloud architecture and observability
+* Reproducible, testable, CI/CD-driven pipelines
+* High-performance SQL & distributed data workflows
+
+I am targeting **Software, Data, and Cloud Engineering** roles (US Remote/Hybrid; open to relocate).
 
 ---
 
